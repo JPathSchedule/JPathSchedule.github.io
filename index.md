@@ -11,6 +11,8 @@ Your challenge is to draw a path in which a ball moves and can capture illuminat
 If you hit all the targets while they are on and colored, your record will increase
 
 
+## video
+![app video ](/appVideo.mov)
 
 ### how to play
 
