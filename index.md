@@ -1,13 +1,16 @@
 ## welcom to JPath Schedule
-### new features
 
-JPath schedule One light and interesting game for timing skill challenge, 
+![image ](/appicon.png)
+
+One light and interesting game for timing skill challenge, 
 
 In this game you have a series of colored targets that turn on and off, 
 
 Your challenge is to draw a path in which a ball moves and can capture illuminated targets while the targets are blinking, 
 
 If you hit all the targets while they are on and colored, your record will increase
+
+
 
 ### how to play
 
