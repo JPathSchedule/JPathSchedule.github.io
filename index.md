@@ -12,6 +12,8 @@ If you hit all the targets while they are on and colored, your record will incre
 
 
 ## video
+video loading takes a little time, wait for loading
+
 ![app video ](/appVideo.mov)
 
 ### how to play
