@@ -19,4 +19,8 @@ if the ball reach all colored targets your score will increase and you will go t
 
 ### support game
 
-we will ver glad if you contact us and your opininons and improvment suggestion and 
+We would be happy to share your ideas and suggestions with us about the game and help us improve this game.
+
+you can contact us by this mail: JPathSchedule@gmail.com
+
+thanks for contacting us 
