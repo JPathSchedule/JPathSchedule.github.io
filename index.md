@@ -1,5 +1,3 @@
-# Welcome to JPath Schedule
-
 ## Privacy Policy ##
 
 we built the JPath Schedule app as a Commercial app. This SERVICE is provided by JPath Schedule Team and is intended for use as is.
